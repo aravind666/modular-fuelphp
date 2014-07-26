@@ -1,4 +1,7 @@
 modular-fuelphp
 ===============
 
-FuelPHP skeleton application configured to have modules
+modular-fuelphp is a FuelPHP skeleton application which is configured to support modules. 
+
+
+
